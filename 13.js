@@ -5,7 +5,7 @@ let matrix = "";
 
 for(let k = 0; k < n; k++){
     for(let g = 0; g < m; g++){
-        matrix += (k + g + 1) + " ";
+        matrix += (g-1)*3 + (g + 1) + " ";
     }
     matrix += "\n";
 }
