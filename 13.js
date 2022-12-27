@@ -2,6 +2,8 @@ let n = 4;
 let m = 5;
 let arr = [];
 
+// решение взето от Дискорд!
+
 for (let i = 0; i < n; i++) {
   arr.push(new Array(m));
 }
