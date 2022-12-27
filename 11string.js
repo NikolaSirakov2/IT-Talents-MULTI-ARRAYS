@@ -1,5 +1,5 @@
 let n = 4;
-let m = 6;
+let m = 5;
 
 let matrix = "";
 
